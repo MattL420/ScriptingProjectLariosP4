@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DoWhileLoop : MonoBehavior
+public class DoWhileLoop : MonoBehaviour
 {
 
     void Start()
