@@ -13,8 +13,7 @@ public class ScopeAndAccessModifiers : MonoBehaviour
 
     private AnotherClass myOtherClass;
     
-
-        
+     
     void Start ()
     {
         alpha = 29;
